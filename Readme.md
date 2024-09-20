@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Akash Chandra Verma</h1>
+<h3 align="center">A passionate web developer from India</h3>
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/Akki-soni">
+  <img src="https://komarev.com/ghpvc/?username=akki-soni&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## Toast Notification
 
 A simple and customizable Toast Notification component built using HTML, CSS, and JavaScript. This component can be used to display non-intrusive alerts or messages to users.
