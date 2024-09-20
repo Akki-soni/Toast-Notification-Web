@@ -31,7 +31,7 @@ A simple and customizable Toast Notification component built using HTML, CSS, an
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Akki-soni/Toast-Notification-Web.git
 cd toast-notification
 open index.html
 ```
