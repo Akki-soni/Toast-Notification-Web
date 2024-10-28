@@ -34,7 +34,7 @@
 
 ## 🌟 Screenshots
 
-![Password Generator Screenshot](/TMW_Screenshot.pn)
+![Password Generator Screenshot](/TMW_Screenshot.png)
 
 ## 🔗 Live Demo
 
