@@ -38,7 +38,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://toast-notification-web.vercel.app/)
 
 ## How to Use
 
